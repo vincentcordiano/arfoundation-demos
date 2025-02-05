@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - RedPlane
+  - GreenPlane
+  - RainbowPlane
+  - OrangePlane
   layers:
   - Default
   - TransparentFX
